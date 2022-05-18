@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct User: Decodable, Identifiable {
+struct User: Codable, Identifiable {
     let id: Int
     let name: String
     let avatarUrl: String
@@ -19,4 +19,8 @@ struct User: Decodable, Identifiable {
         case avatarUrl = "avatar_url"
         case type
     }
+}
+
+struct UserModel: Codable {
+    var items: [User]
 }
