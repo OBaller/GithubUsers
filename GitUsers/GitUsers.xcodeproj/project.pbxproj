@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C59DE47328350EE8009029BF /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59DE47228350EE8009029BF /* SearchView.swift */; };
-		C59DE47728350FF4009029BF /* UserSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59DE47628350FF4009029BF /* UserSearchView.swift */; };
 		C5C6A5652834DCCE009AB98D /* GitUsersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C6A5642834DCCE009AB98D /* GitUsersApp.swift */; };
 		C5C6A5692834DCD0009AB98D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5C6A5682834DCD0009AB98D /* Assets.xcassets */; };
 		C5C6A56C2834DCD0009AB98D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5C6A56B2834DCD0009AB98D /* Preview Assets.xcassets */; };
@@ -45,7 +44,6 @@
 
 /* Begin PBXFileReference section */
 		C59DE47228350EE8009029BF /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
-		C59DE47628350FF4009029BF /* UserSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSearchView.swift; sourceTree = "<group>"; };
 		C5C6A5612834DCCE009AB98D /* GitUsers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUsers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5C6A5642834DCCE009AB98D /* GitUsersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUsersApp.swift; sourceTree = "<group>"; };
 		C5C6A5682834DCD0009AB98D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -183,7 +181,6 @@
 				C5C6A59D2834EFC8009AB98D /* UserRow.swift */,
 				C5C6A59F2834EFF2009AB98D /* DetailsView.swift */,
 				C59DE47228350EE8009029BF /* SearchView.swift */,
-				C59DE47628350FF4009029BF /* UserSearchView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -326,7 +323,6 @@
 			files = (
 				C59DE47328350EE8009029BF /* SearchView.swift in Sources */,
 				C5C6A5962834E712009AB98D /* APIService.swift in Sources */,
-				C59DE47728350FF4009029BF /* UserSearchView.swift in Sources */,
 				C5C6A5932834E6CC009AB98D /* UserViewModel.swift in Sources */,
 				C5C6A5652834DCCE009AB98D /* GitUsersApp.swift in Sources */,
 				C5C6A59E2834EFC8009AB98D /* UserRow.swift in Sources */,

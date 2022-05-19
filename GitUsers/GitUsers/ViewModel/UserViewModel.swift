@@ -11,7 +11,7 @@ import Combine
 class UserViewModel: ObservableObject {
     @Published var users: [User] = []
     @Published var isRequestFailed = false
-    private let pageLimit = 10
+    @Published var pageLimit = 10
     private var currentLastId: Int? = nil
     private var cancellable: AnyCancellable?
     
@@ -38,7 +38,7 @@ class UserViewModel: ObservableObject {
             DispatchQueue.main.async {
                 switch result {
                 case .failure(let error):
-                    print(" This is why \(error)")
+                    print("--- failure with \(error)")
                 case .success(let users):
                     print("--- sucess with \(users.count)")
                     self.users = users
