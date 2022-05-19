@@ -23,8 +23,6 @@ The App fetches and displays the homescreen content from "https://api.github.com
 
 The search feature: The search bar displays contents from "https://api.github.com/search/users" as the text in the search bar changes.
 
-<img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/168816216-1e4f95ac-bac8-4c65-94dc-44783f48f4fd.png">
-
 ### Loading View
 <img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169313178-fcea00a0-b7d5-4670-b238-234698fe2eb8.png">
 
@@ -35,7 +33,7 @@ The search feature: The search bar displays contents from "https://api.github.co
 ### Search Feature
 <img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317914-f915429b-82c2-4d4e-b014-e9dfecd581d8.png"> <img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317968-8a901389-0065-4cd5-a0dc-5d63899461a7.png"> <img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317978-edbfe676-c601-465f-b156-7b23be9abddb.png">
 
-<img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317988-1c131c0c-a6d5-4e94-8c52-e944d7274f4b.png"> <img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317995-ece344fe-292c-4f30-a238-db5329724b8c.png">
+<img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317988-1c131c0c-a6d5-4e94-8c52-e944d7274f4b.png">  <img width="282" alt="Auth" src="https://user-images.githubusercontent.com/60821645/169317995-ece344fe-292c-4f30-a238-db5329724b8c.png">
 
 
 
