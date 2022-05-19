@@ -18,6 +18,9 @@ $ cd GithubUsers
 # Support
 - Dark Mode Support
 
+# Dependency
+- SDWebImage: A third party library for fetching images from URL
+
 ### DESCRIPTION
 The App fetches and displays the homescreen content from "https://api.github.com/users" and displays results, 10 items per page and more are being loaded automatically as the user scrolls down the screen.
 
